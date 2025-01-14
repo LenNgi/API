@@ -1,6 +1,6 @@
 {
   "typeValidate": "2",
   "urlRGame": "https://github.com/taitutb/ThienDuongClub/raw/refs/heads/main/filezip.zip",
-  "urlCountry": "https://raw.githubusercontent.com/LenNgi/API/refs/heads/main/config",
+  "urlCountry": "https://raw.githubusercontent.com/LenNgi/API-BigWinnerTDSO1/refs/heads/main/config",
   "ipAPI": "https://ipinfo.io/json"
 }
